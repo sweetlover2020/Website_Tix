@@ -2,7 +2,20 @@
     "version": 3,
     "mappings": "",
     "sources": [
-        "../sass/style.scss"
+        "../sass/style.scss",
+        "../sass/Base/_reset.scss",
+        "../sass/Base/_customize.scss",
+        "../sass/Base/_normalized.scss",
+        "../sass/Base/_responsive.scss",
+        "../sass/Components/_button.scss",
+        "../sass/Layouts/_header.scss",
+        "../sass/Layouts/_carousel.scss",
+        "../sass/Layouts/_homeTools.scss",
+        "../sass/Layouts/_filmBlock.scss",
+        "../sass/Layouts/_cinemaBlock.scss",
+        "../sass/Layouts/_newsBlock.scss",
+        "../sass/Layouts/_appBlock.scss",
+        "../sass/Layouts/_footer.scss"
     ],
     "names": [],
     "file": "style.css"

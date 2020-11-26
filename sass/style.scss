@@ -1,0 +1,18 @@
+// base
+@import './Base/reset';
+@import './Base/customize';
+@import './Base/normalized';
+@import './Base/responsive';
+
+// components
+@import './Components/button';
+
+// Layouts
+@import './Layouts/header';
+@import './Layouts/carousel';
+@import './Layouts/homeTools';
+@import './Layouts/filmBlock';
+@import './Layouts/cinemaBlock';
+@import './Layouts/newsBlock';
+@import './Layouts/appBlock';
+@import './Layouts/footer';
